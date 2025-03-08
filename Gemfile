@@ -2,7 +2,8 @@
 
 source "https://rubygems.org"
 
-# gem "jekyll"
+# gem "rails"
+
 gem "jekyll"
 
 
